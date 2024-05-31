@@ -15,7 +15,7 @@ This Python script downloads the latest sermon from a specified YouTube link, ex
 1. **Clone the repository or download the script:**
 
     ```bash
-    git clone https://github.com/yourusername/sermonExtractor.git
+    git clone https://github.com/TMuckler/sermonExtractor.git
     cd sermonExtractor
     ```
 
